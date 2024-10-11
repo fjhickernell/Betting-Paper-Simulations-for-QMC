@@ -1,4 +1,4 @@
-name: bet_sim
+name: bet__sim
 channels:
   - defaults
 dependencies:
